@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() {
     int a,b,c;
     int d = (a+b+c)/3;
