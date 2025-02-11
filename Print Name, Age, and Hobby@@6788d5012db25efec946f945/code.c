@@ -4,6 +4,6 @@ int main() {
     int Age;
     char Hobby[100];
     scanf("%s %d %s",Name,&Age,Hobby);
-    printf("Name: %s\n Age: %d\n Hobby:%s",Name,Age,Hobby);
+    printf("Name: %s\nAge: %d\nHobby:%s",Name,Age,Hobby);
     return 0;
  }
