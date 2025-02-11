@@ -1,3 +1,4 @@
+#include <stdio>
 int main() {
 
     char Name[100];
